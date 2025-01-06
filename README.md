@@ -2,7 +2,7 @@
 
 
 ## 🌅 Currently Working On
-- 🚀 **Building Cosocket** – a startup focused on innovative tech solutions  
+- 🚀 **Building Cosocket** – a startup focused on manufacturing connector, working as Full Stack Intern
 - 📚 **Pursuing third-year Engineering** at PICT, Pune  
 
 
@@ -12,8 +12,7 @@
 
 
 ## 🧑‍💻 Looking for Help With
-- 🧠 **Brainstorming and executing AI project ideas**  
-- 📈 **Scaling and refining Cosocket** for broader reach  
+- 🧠 **Brainstorming and executing AI project ideas** 
 
 
 ## 🌱 Currently Learning
