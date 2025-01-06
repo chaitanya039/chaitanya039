@@ -1,36 +1,30 @@
 # 🌛 About Me
 
----
 
 ## 🌅 Currently Working On
 - 🚀 **Building Cosocket** – a startup focused on innovative tech solutions  
 - 📚 **Pursuing third-year Engineering** at PICT, Pune  
 
----
 
 ## 🤝 Looking to Collaborate On
 - 🌐 **Web Development projects** that push boundaries  
 - 🤖 **AI/ML initiatives** to drive real-world impact  
 
----
 
 ## 🧑‍💻 Looking for Help With
 - 🧠 **Brainstorming and executing AI project ideas**  
 - 📈 **Scaling and refining Cosocket** for broader reach  
 
----
 
 ## 🌱 Currently Learning
 - 🤖 **Artificial Intelligence and Machine Learning**  
 - ⚙️ **Advanced web technologies** to enhance my development toolkit  
 
----
 
 ## 💬 Ask Me About
 - 💻 **MERN stack development** and building scalable web apps  
 - 🚀 **Startup life** – balancing entrepreneurship and academics  
 
----
 
 ## ⚡ Fun Fact
 - 🎯 I’ve secured an upcoming **internship at Mastercard!** Excited for new challenges ahead.  
