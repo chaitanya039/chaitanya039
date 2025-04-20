@@ -2,7 +2,7 @@
 
 
 ## Currently Working On
-- **Pursuing third-year Engineering** at PICT, Pune  
+**Pursuing third-year Engineering** at PICT, Pune  
 
 
 ## Looking to Collaborate On
@@ -11,7 +11,7 @@
 
 
 ## Looking for Help With
-- **Brainstorming and executing AI project ideas** 
+**Brainstorming and executing AI project ideas** 
 
 
 ## Currently Learning
