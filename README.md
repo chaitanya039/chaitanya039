@@ -2,30 +2,30 @@
 
 
 ## Currently Working On
-- 📚 **Pursuing third-year Engineering** at PICT, Pune  
+- **Pursuing third-year Engineering** at PICT, Pune  
 
 
 ## Looking to Collaborate On
-- 🌐 **Web Development projects** that push boundaries  
-- 🤖 **AI/ML initiatives** to drive real-world impact  
+- **Web Development projects** that push boundaries  
+- **AI/ML initiatives** to drive real-world impact  
 
 
 ## Looking for Help With
-- 🧠 **Brainstorming and executing AI project ideas** 
+- **Brainstorming and executing AI project ideas** 
 
 
 ## Currently Learning
-- 🤖 **Artificial Intelligence and Machine Learning**  
-- ⚙️ **Advanced web technologies** to enhance my development toolkit  
+- **Artificial Intelligence and Machine Learning**  
+- **Advanced web technologies** to enhance my development toolkit  
 
 
 ## Ask Me About
-- 💻 **MERN stack development** and building scalable web apps  
-- 🚀 **Startup life** – balancing entrepreneurship and academics  
+- **MERN stack development** and building scalable web apps  
+- **Startup life** – balancing entrepreneurship and academics  
 
 
 ## Fun Fact
-- 🎯 I’ve secured an upcoming **internship at Mastercard!** Excited for new challenges ahead.  
+🎯 I’ve secured an upcoming **internship at Mastercard!** Excited for new challenges ahead.  
 
 
 
