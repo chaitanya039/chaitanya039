@@ -1,32 +1,4 @@
-# About Me
-
-
-## Currently Working On
-**Pursuing third-year Engineering** at PICT, Pune  
-
-
-## Looking to Collaborate On
-- **Web Development projects** that push boundaries  
-- **AI/ML initiatives** to drive real-world impact  
-
-
-## Looking for Help With
-**Brainstorming and executing AI project ideas** 
-
-
-## Currently Learning
-- **Artificial Intelligence and Machine Learning**  
-- **Advanced web technologies** to enhance my development toolkit  
-
-
-## Ask Me About
-- **MERN stack development** and building scalable web apps  
-- **Startup life** – balancing entrepreneurship and academics  
-
-
-## Fun Fact
-🎯 I’ve secured an upcoming **internship at Mastercard!** Excited for new challenges ahead.  
-
+I’m a third-year IT Engineering student at PICT, Pune, with a strong focus on MERN stack development and a growing interest in AI/ML. Currently, I’m deepening my skills in artificial intelligence, machine learning, and advanced web technologies. I'm looking to collaborate on innovative web and AI projects that drive real-world impact. I’m also open to discussions around scalable MERN applications and the experience of balancing startup life with academics. Excited to join Mastercard as an intern and take on new challenges ahead.
 
 
 ## 🌐 Socials:
