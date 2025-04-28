@@ -1,4 +1,5 @@
-I’m a third-year IT Engineering student at PICT, Pune, with a strong focus on MERN stack development and a growing interest in AI/ML. Currently, I’m deepening my skills in artificial intelligence, machine learning, and advanced web technologies. I'm looking to collaborate on innovative web and AI projects that drive real-world impact. I’m also open to discussions around scalable MERN applications and the experience of balancing startup life with academics. Excited to join Mastercard as an intern and take on new challenges ahead.
+**Hey there!**, Myself Chaitanya Pansare an IT Engineering student at __PICT__, Pune, passionate about web development MERN and AI/ML. 
+Currently exploring real-world applications of emerging tech and gearing up for an upcoming internship at Mastercard.
 
 
 ## 🌐 Socials:
