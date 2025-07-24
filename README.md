@@ -1,5 +1,5 @@
 **Hey there!**, Myself Chaitanya Pansare an IT Engineering student at __PICT__, Pune, passionate about web development MERN and AI/ML. 
-Currently exploring real-world applications of emerging tech and gearing up for an upcoming internship at Mastercard.
+Currently exploring real-world applications of emerging tech.
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/thechaitanyapansare) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chaitanya039) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/chaitanya-pansare) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ChaitanyaP039) 
 
